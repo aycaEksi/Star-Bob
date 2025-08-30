@@ -12,7 +12,6 @@ Features basic player movement, jumping, coin collection, and simple enemies.
 
 ## Tech
 - Unity (C#)
-
-This is my first Unity project to learn Unity fundamentals.
-
+ 
+This is my first Unity project, created to learn Unity fundamentals, developed as part of a 5-person team.
 Engine: Unity 6000.0.37f1 Core Universal 2D
